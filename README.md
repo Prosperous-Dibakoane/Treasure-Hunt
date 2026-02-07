@@ -1,7 +1,7 @@
 # Treasure-Hunt
 ![Demo Screenshot](playing.png)
 
-![Demo Screenshot](gamesres.png)
+![Demo Screenshot](gameres.png)
 
 ![Demo Screenshot](learderboard.png)
 
